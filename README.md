@@ -6,7 +6,7 @@ Darwin Salazar (@darwnsm) · [Monad](https://monad.com) · The Cybersecurity Pul
 
 A map of what AI agents log, where to find it, and what it misses.
 
-📄 **[Slides (PDF)](./AI_Tooling_Visibility_BSides_NYC_2026.pdf)**
+📄 **[Slides (PDF)](./Following_the_AI_Audit_Trail_BSides_NYC_2026.pdf)**
 
 ## What the talk covers
 
