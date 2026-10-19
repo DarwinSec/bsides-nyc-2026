@@ -1,6 +1,7 @@
 # Following the AI Audit Trail
 
 **BSides NYC 2026 · October 17, 2026**
+
 Darwin Salazar (@darwnsm) · [Monad](https://monad.com) · The Cybersecurity Pulse
 
 A map of what AI agents log, where to find it, and what it misses.
